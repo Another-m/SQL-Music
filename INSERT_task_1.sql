@@ -50,7 +50,7 @@ INSERT INTO PerformerGenre (id_performer, id_genre) VALUES (3, 3);
 INSERT INTO PerformerGenre (id_performer, id_genre) VALUES (4, 3);
 INSERT INTO PerformerGenre (id_performer, id_genre) VALUES (5, 4);
 INSERT INTO PerformerGenre (id_performer, id_genre) VALUES (6, 5);
-INSERT INTO PerformerGenre (id_performer, id_genre) VALUES (6, 5);
+INSERT INTO PerformerGenre (id_performer, id_genre) VALUES (6, 4);
 INSERT INTO PerformerGenre (id_performer, id_genre) VALUES (7, 4);
 INSERT INTO PerformerGenre (id_performer, id_genre) VALUES (8, 1);
 INSERT INTO PerformerAlbums (id_performer, id_albums) VALUES (1, 1);
